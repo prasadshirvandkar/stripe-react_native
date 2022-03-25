@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Volumes/Workspace/React Projects/stripetest/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-id/values-id.xml",
+            "map": [
+                {
+                    "source": "/Users/prasadshirvandkar/.gradle/caches/transforms-3/7c9cdc217a773f22c3345f71b8de539e/transformed/jetified-play-services-wallet-19.1.0/res/values-id/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "202",
+                        "endColumns": "73",
+                        "endOffsets": "275"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "77",
+                        "endOffsets": "128"
+                    }
+                }
+            ]
+        }
+    ]
+}

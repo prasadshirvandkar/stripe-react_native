@@ -1,0 +1,6 @@
+module Pods_stripetest_stripetestTests {
+  umbrella header "Pods-stripetest-stripetestTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

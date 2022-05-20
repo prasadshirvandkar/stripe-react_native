@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Volumes/Workspace/React Projects/stripetest/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "outputFile": "/Volumes/Workspace/React Projects/stripe-react_native/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
             "map": [
                 {
                     "source": "/Users/prasadshirvandkar/.gradle/caches/transforms-3/6f38f2533d3836eb2b2bf89342b45a1b/transformed/material-1.5.0/res/values-night-v8/values-night-v8.xml",
@@ -86,6 +86,23 @@
                     }
                 },
                 {
+                    "source": "/Volumes/Workspace/React Projects/stripe-react_native/node_modules/@stripe/stripe-react-native/android/build/intermediates/packaged_res/debug/values-night-v8/values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,151,245,349,449,525,623,717,823",
+                        "endColumns": "95,93,103,99,75,97,93,105,91",
+                        "endOffsets": "146,240,344,444,520,618,712,818,910"
+                    },
+                    "to": {
+                        "startLines": "50,51,52,53,54,55,56,57,58",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "3423,3519,3613,3717,3817,3893,3991,4085,4191",
+                        "endColumns": "95,93,103,99,75,97,93,105,91",
+                        "endOffsets": "3514,3608,3712,3812,3888,3986,4080,4186,4278"
+                    }
+                },
+                {
                     "source": "/Users/prasadshirvandkar/.gradle/caches/transforms-3/b4067a395b154f613347dd77230be3d7/transformed/appcompat-1.4.1/res/values-night-v8/values-night-v8.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
@@ -100,23 +117,6 @@
                         "startOffsets": "5207,5277,5361,5445,5541,5643,5745,8493",
                         "endColumns": "69,83,83,95,101,101,93,88",
                         "endOffsets": "5272,5356,5440,5536,5638,5740,5834,8577"
-                    }
-                },
-                {
-                    "source": "/Volumes/Workspace/React Projects/stripetest/node_modules/@stripe/stripe-react-native/android/build/intermediates/packaged_res/debug/values-night-v8/values-night-v8.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,151,245,349,449,525,623,717,823",
-                        "endColumns": "95,93,103,99,75,97,93,105,91",
-                        "endOffsets": "146,240,344,444,520,618,712,818,910"
-                    },
-                    "to": {
-                        "startLines": "50,51,52,53,54,55,56,57,58",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "3423,3519,3613,3717,3817,3893,3991,4085,4191",
-                        "endColumns": "95,93,103,99,75,97,93,105,91",
-                        "endOffsets": "3514,3608,3712,3812,3888,3986,4080,4186,4278"
                     }
                 }
             ]

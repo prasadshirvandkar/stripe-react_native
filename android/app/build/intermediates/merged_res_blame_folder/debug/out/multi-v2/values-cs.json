@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Volumes/Workspace/React Projects/stripetest/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-cs/values-cs.xml",
+            "outputFile": "/Volumes/Workspace/React Projects/stripe-react_native/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-cs/values-cs.xml",
             "map": [
                 {
                     "source": "/Users/prasadshirvandkar/.gradle/caches/transforms-3/ff5df5bcdf69debbf1e3067aa1d51dbb/transformed/core-1.7.0/res/values-cs/values-cs.xml",

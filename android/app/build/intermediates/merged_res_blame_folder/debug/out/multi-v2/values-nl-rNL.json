@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Volumes/Workspace/React Projects/stripetest/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-nl-rNL/values-nl-rNL.xml",
+            "outputFile": "/Volumes/Workspace/React Projects/stripe-react_native/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-nl-rNL/values-nl-rNL.xml",
             "map": [
                 {
                     "source": "/Users/prasadshirvandkar/.gradle/caches/transforms-3/9cd9847afd5eb2930f5d00b99f33ced9/transformed/jetified-stripe-3ds2-android-6.1.3/res/values-nl-rNL/values-nl-rNL.xml",

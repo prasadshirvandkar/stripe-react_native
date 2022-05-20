@@ -9,14 +9,14 @@
 9        android:targetSdkVersion="31" />
 10
 11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
-11-->/Volumes/Workspace/React Projects/stripetest/android/app/src/debug/AndroidManifest.xml:5:5-77
-11-->/Volumes/Workspace/React Projects/stripetest/android/app/src/debug/AndroidManifest.xml:5:22-75
+11-->/Volumes/Workspace/React Projects/stripe-react_native/android/app/src/debug/AndroidManifest.xml:5:5-77
+11-->/Volumes/Workspace/React Projects/stripe-react_native/android/app/src/debug/AndroidManifest.xml:5:22-75
 12    <uses-permission android:name="android.permission.INTERNET" />
-12-->/Volumes/Workspace/React Projects/stripetest/android/app/src/main/AndroidManifest.xml:4:5-67
-12-->/Volumes/Workspace/React Projects/stripetest/android/app/src/main/AndroidManifest.xml:4:22-64
+12-->/Volumes/Workspace/React Projects/stripe-react_native/android/app/src/main/AndroidManifest.xml:4:5-67
+12-->/Volumes/Workspace/React Projects/stripe-react_native/android/app/src/main/AndroidManifest.xml:4:22-64
 13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-13-->/Volumes/Workspace/React Projects/stripetest/android/app/src/main/AndroidManifest.xml:5:5-79
-13-->/Volumes/Workspace/React Projects/stripetest/android/app/src/main/AndroidManifest.xml:5:22-76
+13-->/Volumes/Workspace/React Projects/stripe-react_native/android/app/src/main/AndroidManifest.xml:5:5-79
+13-->/Volumes/Workspace/React Projects/stripe-react_native/android/app/src/main/AndroidManifest.xml:5:22-76
 14    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" /> <!-- See https://developer.android.com/training/package-visibility/declaring for more details. -->
 14-->[com.facebook.flipper:flipper:0.99.0] /Users/prasadshirvandkar/.gradle/caches/transforms-3/df7b208c45426f45016d16c0c3a6a059/transformed/jetified-flipper-0.99.0/AndroidManifest.xml:16:5-76
 14-->[com.facebook.flipper:flipper:0.99.0] /Users/prasadshirvandkar/.gradle/caches/transforms-3/df7b208c45426f45016d16c0c3a6a059/transformed/jetified-flipper-0.99.0/AndroidManifest.xml:16:22-73
@@ -41,50 +41,50 @@
 25-->[com.google.android.gms:play-services-maps:18.0.2] /Users/prasadshirvandkar/.gradle/caches/transforms-3/59bd5d5c5f12afc93ee5869783875ff2/transformed/jetified-play-services-maps-18.0.2/AndroidManifest.xml:28:9-32
 26
 27    <application
-27-->/Volumes/Workspace/React Projects/stripetest/android/app/src/main/AndroidManifest.xml:7:5-27:19
+27-->/Volumes/Workspace/React Projects/stripe-react_native/android/app/src/main/AndroidManifest.xml:7:5-27:19
 28        android:name="com.stripetest.MainApplication"
-28-->/Volumes/Workspace/React Projects/stripetest/android/app/src/main/AndroidManifest.xml:8:7-38
+28-->/Volumes/Workspace/React Projects/stripe-react_native/android/app/src/main/AndroidManifest.xml:8:7-38
 29        android:allowBackup="false"
-29-->/Volumes/Workspace/React Projects/stripetest/android/app/src/main/AndroidManifest.xml:13:7-34
+29-->/Volumes/Workspace/React Projects/stripe-react_native/android/app/src/main/AndroidManifest.xml:13:7-34
 30        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 30-->[androidx.core:core:1.7.0] /Users/prasadshirvandkar/.gradle/caches/transforms-3/ff5df5bcdf69debbf1e3067aa1d51dbb/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
 31        android:debuggable="true"
 32        android:icon="@mipmap/ic_launcher"
-32-->/Volumes/Workspace/React Projects/stripetest/android/app/src/main/AndroidManifest.xml:10:7-41
+32-->/Volumes/Workspace/React Projects/stripe-react_native/android/app/src/main/AndroidManifest.xml:10:7-41
 33        android:label="@string/app_name"
-33-->/Volumes/Workspace/React Projects/stripetest/android/app/src/main/AndroidManifest.xml:9:7-39
+33-->/Volumes/Workspace/React Projects/stripe-react_native/android/app/src/main/AndroidManifest.xml:9:7-39
 34        android:roundIcon="@mipmap/ic_launcher_round"
-34-->/Volumes/Workspace/React Projects/stripetest/android/app/src/main/AndroidManifest.xml:11:7-52
+34-->/Volumes/Workspace/React Projects/stripe-react_native/android/app/src/main/AndroidManifest.xml:11:7-52
 35        android:theme="@style/AppTheme"
-35-->/Volumes/Workspace/React Projects/stripetest/android/app/src/main/AndroidManifest.xml:14:7-38
+35-->/Volumes/Workspace/React Projects/stripe-react_native/android/app/src/main/AndroidManifest.xml:14:7-38
 36        android:usesCleartextTraffic="true" >
-36-->/Volumes/Workspace/React Projects/stripetest/android/app/src/main/AndroidManifest.xml:12:7-42
+36-->/Volumes/Workspace/React Projects/stripe-react_native/android/app/src/main/AndroidManifest.xml:12:7-42
 37        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
-37-->/Volumes/Workspace/React Projects/stripetest/android/app/src/debug/AndroidManifest.xml:11:9-86
-37-->/Volumes/Workspace/React Projects/stripetest/android/app/src/debug/AndroidManifest.xml:11:19-83
+37-->/Volumes/Workspace/React Projects/stripe-react_native/android/app/src/debug/AndroidManifest.xml:11:9-86
+37-->/Volumes/Workspace/React Projects/stripe-react_native/android/app/src/debug/AndroidManifest.xml:11:19-83
 38        <activity
-38-->/Volumes/Workspace/React Projects/stripetest/android/app/src/main/AndroidManifest.xml:15:7-26:18
+38-->/Volumes/Workspace/React Projects/stripe-react_native/android/app/src/main/AndroidManifest.xml:15:7-26:18
 39            android:name="com.stripetest.MainActivity"
-39-->/Volumes/Workspace/React Projects/stripetest/android/app/src/main/AndroidManifest.xml:16:9-37
+39-->/Volumes/Workspace/React Projects/stripe-react_native/android/app/src/main/AndroidManifest.xml:16:9-37
 40            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
-40-->/Volumes/Workspace/React Projects/stripetest/android/app/src/main/AndroidManifest.xml:18:9-86
+40-->/Volumes/Workspace/React Projects/stripe-react_native/android/app/src/main/AndroidManifest.xml:18:9-86
 41            android:exported="true"
-41-->/Volumes/Workspace/React Projects/stripetest/android/app/src/main/AndroidManifest.xml:20:9-32
+41-->/Volumes/Workspace/React Projects/stripe-react_native/android/app/src/main/AndroidManifest.xml:20:9-32
 42            android:label="@string/app_name"
-42-->/Volumes/Workspace/React Projects/stripetest/android/app/src/main/AndroidManifest.xml:17:9-41
+42-->/Volumes/Workspace/React Projects/stripe-react_native/android/app/src/main/AndroidManifest.xml:17:9-41
 43            android:launchMode="singleTask"
-43-->/Volumes/Workspace/React Projects/stripetest/android/app/src/main/AndroidManifest.xml:19:9-40
+43-->/Volumes/Workspace/React Projects/stripe-react_native/android/app/src/main/AndroidManifest.xml:19:9-40
 44            android:windowSoftInputMode="adjustResize" >
-44-->/Volumes/Workspace/React Projects/stripetest/android/app/src/main/AndroidManifest.xml:21:9-51
+44-->/Volumes/Workspace/React Projects/stripe-react_native/android/app/src/main/AndroidManifest.xml:21:9-51
 45            <intent-filter>
-45-->/Volumes/Workspace/React Projects/stripetest/android/app/src/main/AndroidManifest.xml:22:9-25:25
+45-->/Volumes/Workspace/React Projects/stripe-react_native/android/app/src/main/AndroidManifest.xml:22:9-25:25
 46                <action android:name="android.intent.action.MAIN" />
-46-->/Volumes/Workspace/React Projects/stripetest/android/app/src/main/AndroidManifest.xml:23:13-65
-46-->/Volumes/Workspace/React Projects/stripetest/android/app/src/main/AndroidManifest.xml:23:21-62
+46-->/Volumes/Workspace/React Projects/stripe-react_native/android/app/src/main/AndroidManifest.xml:23:13-65
+46-->/Volumes/Workspace/React Projects/stripe-react_native/android/app/src/main/AndroidManifest.xml:23:21-62
 47
 48                <category android:name="android.intent.category.LAUNCHER" />
-48-->/Volumes/Workspace/React Projects/stripetest/android/app/src/main/AndroidManifest.xml:24:13-73
-48-->/Volumes/Workspace/React Projects/stripetest/android/app/src/main/AndroidManifest.xml:24:23-70
+48-->/Volumes/Workspace/React Projects/stripe-react_native/android/app/src/main/AndroidManifest.xml:24:13-73
+48-->/Volumes/Workspace/React Projects/stripe-react_native/android/app/src/main/AndroidManifest.xml:24:23-70
 49            </intent-filter>
 50        </activity>
 51        <activity

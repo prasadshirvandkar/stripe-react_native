@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Volumes/Workspace/React Projects/stripetest/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sk-rSK/values-sk-rSK.xml",
+            "outputFile": "/Volumes/Workspace/React Projects/stripe-react_native/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sk-rSK/values-sk-rSK.xml",
             "map": [
                 {
                     "source": "/Users/prasadshirvandkar/.gradle/caches/transforms-3/e615edda3202860c8128e3c60f44a24f/transformed/jetified-payments-core-19.2.2/res/values-sk-rSK/values-sk-rSK.xml",

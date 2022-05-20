@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Volumes/Workspace/React Projects/stripetest/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ca-rES/values-ca-rES.xml",
+            "outputFile": "/Volumes/Workspace/React Projects/stripe-react_native/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ca-rES/values-ca-rES.xml",
             "map": [
                 {
                     "source": "/Users/prasadshirvandkar/.gradle/caches/transforms-3/adcf65c6ee5d45db3ab8ec208b5d617a/transformed/jetified-payments-ui-core-19.2.2/res/values-ca-rES/values-ca-rES.xml",
